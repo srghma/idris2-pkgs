@@ -64,6 +64,11 @@ LSP, also have access to that ``withPkgs`` attribute.
 
 For other uses, check the `documentation <./docs/README.rst>`__.
 
+Alternatives
+-----------
+1. https://github.com/mattpolzin/nix-idris2-packages - TODO: what is the difference?
+
+
 License
 =======
 
